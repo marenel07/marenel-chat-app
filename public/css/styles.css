@@ -34,9 +34,9 @@ button:disabled{
     cursor:default;
     background:#698ea5
 }
-input {
+/*input {
     padding: 10px;
-}
+}*/
 .centered-form{
     display:flex;
     align-items:center;
@@ -139,9 +139,9 @@ input {
     font-weight:600;
     margin-right:10px
 }
-span.message__name {
+/*span.message__name {
     font-weight: 600;
-}
+}*/
 .message__title span{
     color:#999
 }
